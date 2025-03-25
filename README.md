@@ -15,6 +15,11 @@ Cipher Forge is a robust encryption and decryption algorithm that combines AES, 
 
 - ✅Extended ASCII Encoding: Makes encrypted data less recognizable.
 
+## Video Demonstration
+<video controls>
+  <source src="./Cipher Forge.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 
 

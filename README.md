@@ -17,7 +17,7 @@ Cipher Forge is a robust encryption and decryption algorithm that combines AES, 
 
 ## Video Demonstration
 ## Option 2: Link with a Thumbnail Preview
-[![Watch the video](https://via.placeholder.com/800x400?text=Video+Thumbnail)](./Cipher%20Forge.mp4)
+[![Watch the video](https://via.placeholder.com/800x400?text=Video+Thumbnail)](/Cipher%20Forge.mp4)
 
 
 
